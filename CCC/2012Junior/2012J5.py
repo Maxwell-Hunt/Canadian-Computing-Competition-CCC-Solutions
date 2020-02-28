@@ -1,6 +1,3 @@
-#### Note: This solution only gets 13/15 on the j5, however if we check the input and output it seems to work
-#### Just fine, so I'm not sure what the issue is but This solution should work for most cases
-
 import sys
 sys.setrecursionlimit(1500) # Default 997
 
